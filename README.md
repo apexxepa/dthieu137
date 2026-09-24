@@ -3,11 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dthieu137&label=Profile%20views&color=0e75b6&style=flat" alt="dthieu137" /> </p>
 
-- 🔭 I’m the owner of [CS2Agent](CS2Agent.com)
+- Owner @CS2Agent
+- PO @Connext Solutions
 
-- 🌱 I’m currently learning **Nuxtjs, Nextjs and relevant SSR frameworks**
-
-- 📫 How to reach me: Kindly send an email to **dthieu13701@gmail.com**
+- 📫 How to reach me: Kindly send an email to **work.hieudt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
